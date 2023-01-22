@@ -1,5 +1,6 @@
 # self-service-cashier
 Program self-service cashier sederhana yang dibuat menggunakan python dan OOP
+
 **Latar Belakang**
 
 Project ini dibuat dilatarbelakangi keinginan untuk mengembangkan program kasir self-service, sehingga nantinya pelanggan dapat memasukkan item yang dibeli beserta jumlah dan harga secara mandiri. Program ini dibuat menggunakan Bahasa pemrograman python yang di dalamnya terdapat Object Oriented Programming (OOP)
