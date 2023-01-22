@@ -20,12 +20,19 @@ Project ini dibuat dilatarbelakangi keinginan untuk mengembangkan program kasir 
 **Penjelasan**
 
 •	Fungsi add_item bertujuan untuk menambahkan item ke dalam daftar belanja.
+
 •	Fungsi update_item_name bertujuan untuk mengubah nama item dalam daftar belanja.
+
 •	Fungsi update_item_quantity bertujuan untuk mengubah jumlah item dalam daftar belanja.
+
 •	Fungsi update_item_price bertujuan untuk mengubah harga item dalam daftar belanja.
+
 •	Fungsi total_price bertujuan untuk menjumlahkan harga dari seluruh item yang ada dalam daftar belanja.
+
 •	Fungsi delete_item bertujuan untuk menghapus item dalam daftar belanja.
+
 •	Fungsi reset_transaction bertujuan untuk menghapus seluruh item dalam daftar belanja.
+
 •	Fungsi check_data_belanja bertujuan untuk memeriksa apakah input yang diberikan sudah benar dan menampilkan daftar belanja dalam bentuk tabel.
 
 **Hasil Test Case**
