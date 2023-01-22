@@ -1,19 +1,23 @@
 # self-service-cashier
 Program self-service cashier sederhana yang dibuat menggunakan python dan OOP
 Latar Belakang
+
 Project ini dibuat dilatarbelakangi keinginan untuk mengembangkan program kasir self-service, sehingga nantinya pelanggan dapat memasukkan item yang dibeli beserta jumlah dan harga secara mandiri. Program ini dibuat menggunakan Bahasa pemrograman python yang di dalamnya terdapat Object Oriented Programming (OOP)
 
 Requirements
+
 1.	Python
 2.	Pandas
 
 Alur penggunaan code
+
 1.	Download modul self_service_cashier.py yang ada ke dalam direktori lokal.
 2.	Buka terminal dan sesuaikan lokasinya di direktori lokal.
 3.	Jalankan modul self_service_cashier.py di terminal.
 4.	Import modul self_service_cashier.py ke dalam main.py dan jalankan.
 
 Penjelasan
+
 •	Fungsi add_item bertujuan untuk menambahkan item ke dalam daftar belanja.
 •	Fungsi update_item_name bertujuan untuk mengubah nama item dalam daftar belanja.
 •	Fungsi update_item_quantity bertujuan untuk mengubah jumlah item dalam daftar belanja.
@@ -37,5 +41,6 @@ Hasil Test Case
 ![Screenshot (7)](https://user-images.githubusercontent.com/114754571/213914351-3f85deec-52b4-4ed0-a9ad-1b1e72e77a7f.png)
 
 Kesimpulan dan Saran
+
 Program ini adalah program self-service cashier yang bertujuan agar pembeli dapat melakukan kegiatan belanja secara mandiri. Program ini dibuat menggunakan Object-Oriented Programming dalam bahasa pemrograman python. Program ini cukup sederhana dan bisa dikembangkan lagi agar lebih baik di masa yang akan datang. Beberapa pengembangan yang dapat dilakukan antara lain meningkatkan fitur-fitur dalam program seperti input coupon code, menawarkan opsi tas belanja, dan lain sebagainya.
 
